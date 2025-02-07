@@ -14,7 +14,7 @@ metadata:
     - url: https://github.com/simonecatta/enablement-openpipeline-segments-iam.git
       title: Github Repo
       icon: github
-    - url: https://ideal-rotary-phone-gr494xgx6j93v9qx-DEMO_APP_PORT_NUMBER_PLACEHOLDER.GITHUB_CODESPACES_PORT_FORWARDING_DOMAIN_PLACEHOLDER/${{ values.projectName }}-${{ values.teamIdentifier }}-${{ values.releaseStage }}
+    - url: https://ideal-rotary-phone-gr494xgx6j93v9qx-80.GITHUB_CODESPACES_PORT_FORWARDING_DOMAIN_PLACEHOLDER/${{ values.projectName }}-${{ values.teamIdentifier }}-${{ values.releaseStage }}
       title: "Browse Application"
       icon: subject
     - title: View in ArgoCD
