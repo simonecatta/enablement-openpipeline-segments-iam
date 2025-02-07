@@ -14,4 +14,4 @@ data:
   # Enables application status badge feature
   statusbadge.enabled: "true"
   context: |
-    argocdUrl: "https://ideal-rotary-phone-gr494xgx6j93v9qx-30100.GITHUB_CODESPACES_PORT_FORWARDING_DOMAIN_PLACEHOLDER"  
+    argocdUrl: "https://ideal-rotary-phone-gr494xgx6j93v9qx-30100.app.github.dev"  
